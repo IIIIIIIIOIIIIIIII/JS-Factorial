@@ -1,0 +1,25 @@
+body {
+	background-color: #181818;
+}
+
+#factorial {
+	width: 230px;
+	height: 40px;
+	font-size: 24px;
+	color: #178a01;
+}
+
+#button {
+	width: 100px;
+	height: 48px;
+	font-size: 24px;	
+}
+
+#button:hover {
+	cursor: pointer;
+}
+
+#answer {
+	font-size: 24px;
+	color: #ff0000;
+}
